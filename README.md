@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning it on Codecademy
 - 💞️ I’m looking to collaborate on some beginner projects
 - 📫 How to reach me here
-- 😄 Pronouns: Vera
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: I've studied Aviation Engineering but desided to switch to Front End Web Development :)
 
 <!---
