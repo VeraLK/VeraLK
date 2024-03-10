@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VeraLK
+- 👋 Hi, I’m @Vera.K
 - 👀 I’m interested in Front- end Web Dev
 - 🌱 I’m currently learning it on Codecademy
 - 💞️ I’m looking to collaborate on some beginner projects
